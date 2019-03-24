@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "The Netherlands"
   employer         : "Kadaster"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "info@anjokolk.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
