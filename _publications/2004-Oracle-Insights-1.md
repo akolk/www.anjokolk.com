@@ -1,15 +1,13 @@
 ---
-title: "Book 1"
+title: "Oracle Insights (Book)"
 collection: publications
 permalink: /publication/2004-Oracle-Insights-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: "Oracle Insights: Tales of the Oak Table presents 11 world-renowned industry specialists proffering their own highly experienced views, input, and insights on Oracle—where it's been, where it's going, how (and how not) to use it successfully, the software and techniques that theyve introduced to help people achieve their goals, and some frightening tales of what can happen when fundamental design principles are ignored."
+date: 2004
+venue: 'Book'
 paperurl: 'https://www.apress.com/gp/book/9781590593875'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Oracle Insights: Tales of the Oak Table presents 11 world-renowned industry specialists proffering their own highly experienced views, input, and insights on Oracle—where it's been, where it's going, how (and how not) to use it successfully, the software and techniques that theyve introduced to help people achieve their goals, and some frightening tales of what can happen when fundamental design principles are ignored.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kolk, Anjo. (2004). "Oracle Insights." <i>Book 1</i>. 1(1).
