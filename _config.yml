@@ -86,8 +86,8 @@ author:
   location         : "The Netherlands"
   employer         : "Kadaster"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : info@anjokolk.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "info@anjokolk.com"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anjokolk/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "anjokolk"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        : 
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "anjokolk"
   vine             :
   weibo            :
   xing             :
